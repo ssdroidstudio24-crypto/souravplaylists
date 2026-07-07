@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 1
+#EXTINF:40,Toffee 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn-tt.pages.dev/ch1.m3u8
-
-#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 2
+#EXTINF:0,Toffee 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn-tt.pages.dev/ch2.m3u8
-
-#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 3
+#EXTINF:0,Toffee 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn-tt.pages.dev/ch3.m3u8
-
-#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Toffee 3
+#EXTINF:0,q_75 - f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",Toffee 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1783171219~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclA4z8j04s1LN8U0GusssnpGV5b_7xXqO3zMdMXU_o3bq4bciZ7ZYBZ8fpxU5n7kmSSfvhfYH_710YoQVI1uxaEF
-
 #EXTINF:24,Unit 8
 http://172.19.0.18:5000/stream/cloudtv-t-sports/SN-E01-01/tracks-v1a1/mono.m3u8
 #EXTINF:23, Fifa S9
@@ -489,7 +485,6 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 #EXTINF:0,uneit8
 http://180.94.28.28:8097/Fifa-2026/index.m3u8
-#EXTINF:0,http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
 #EXTINF:0,Sun Bangla
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126098
 #EXTINF:0,Colours Bangla Chinema
@@ -746,18 +741,12 @@ http://103.225.94.27/Infobase/hdd-5/hindi.5/O%20Romeo%20(2026)%201080p%20WEBDL.m
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:0,NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108810
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108783
 #EXTINF:0,Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
 #EXTINF:0,zee bangla
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:0,zee bangla cenema
 http://103.159.180.34:5001/live/3476.m3u8
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/112571
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/112575
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108781
 #EXTINF:0,Travel
 http://103.159.180.34:5001/live/164.m3u8
 #EXTINF:0,Music india
@@ -766,45 +755,6 @@ http://103.159.180.34:5001/live/250.m3u8
 http://103.159.180.34:5001/live/585.m3u8
 #EXTINF:0,23. me tv
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108790
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108792
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108797
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108800
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108801
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108805
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108808
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108809
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108813
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108819
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108824
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108830
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108836
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108838
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108839
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108849
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108850
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108853
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108860
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108866
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108868
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108878
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126105
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1440967
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1440978
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1440997
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1441001
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1441003
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1458371
-#EXTINF:0,BANGLA http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1458372
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63526
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63557
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63393
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63524
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/66112
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/112574
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/112573
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1441547
-#EXTINF:0,BENGALI http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/1441548
 #EXTINF:0,03.BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:0,05.71
@@ -823,8 +773,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:0,Server1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:0,Fifahttps://biostartvworld.pages.dev/biostartvworld.m3u
-#EXTINF:0,fifa https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:0,WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:0,Bein Sports 1
@@ -1279,8 +1227,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/
 https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 #EXTINF:0,DSPORTS+ FHD
 http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
-#EXTINF:0,SPORT 1 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:0,SPORT 2 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:0,SportTV 2
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:0,SportTV 3
@@ -1521,29 +1467,20 @@ https://sm-monirul.top/toffee/play/somoy_tv.m3u8
 https://sm-monirul.top/toffee/play/jamuna_tv.m3u8
 #EXTINF:0,q_75 - f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png" group-title="News Channel",ATN News
 https://sm-monirul.top/toffee/play/atn_news.m3u8
-#EXTINF:0,q_75 - f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png" group-title="https://sm-monirul.top/toffee/play/atn_bangla.m3u8
 #EXTINF:0,Ananda TV
 https://sm-monirul.top/toffee/play/anandatv.m3u8
 #EXTINF:0,Bijoy TV
 https://sm-monirul.top/toffee/play/bijoytv.m3u8
-#EXTINF:0,q_75 - f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="https://sm-monirul.top/toffee/play/n_tv.m3u8
-#EXTINF:0,q_75 - f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="https://sm-monirul.top/toffee/play/global_tv.m3u8
 #EXTINF:0,Channel S
 https://sm-monirul.top/toffee/play/channel_s.m3u8
-#EXTINF:0,q_75 - f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="https://sm-monirul.top/toffee/play/rajdhani_tv.m3u8
 #EXTINF:0,Bangla TV
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 #EXTINF:0,Asian TV
 https://sm-monirul.top/toffee/play/asian_tv.m3u8
-#EXTINF:0,q_75 - f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="https://sm-monirul.top/toffee/play/channel_i.m3u8
-#EXTINF:0,q_75 - f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="https://sm-monirul.top/toffee/play/movie_bangla.m3u8
-#EXTINF:0,q_75 - f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="https://sm-monirul.top/toffee/play/nexus_tv.m3u8
-#EXTINF:0,q_75 - f_webp/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png" group-title="https://sm-monirul.top/toffee/play/islamic_tv.m3u8
 #EXTINF:0,q_75 - f_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="News Channel",Desh TV
 https://sm-monirul.top/toffee/play/desh_tv.m3u8
 #EXTINF:0,q_75 - f_webp/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="News Channel",Independent TV
 https://sm-monirul.top/toffee/play/independent_tv.m3u8
-#EXTINF:0,q_75 - f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 #EXTINF:0,Ekattor TV
 https://sm-monirul.top/toffee/play/ekattor_tv.m3u8
 #EXTINF:0,Euro Sport HD
@@ -1784,28 +1721,46 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:0, Zoom
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
-http://192.168.69.2:8089/T_SPORTS/video.m3u8
-https://box.bbaria.net:8083/BTV/video.m3u8
+#EXTINF:22,Channel 24HD
 https://box.bbaria.net:8083/Channel24/video.m3u8
+#EXTINF:22,Channel 24HD
 https://box.bbaria.net:8083/Channel24/tracks-v1a1a2/mono.m3u8
+#EXTINF:24,Live14
 https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
-https://box.bbaria.net:8083/Nagorik_TV/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live14
 https://box.bbaria.net:8083/Nagorik_TV/tracks-v1a1/mono.m3u8
 https://box.bbaria.net:8083/T_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live2
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/Star_Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/Z_BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/COLORS_BANHLA/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/SONY_AATH/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/SUN_BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/SONY_SPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/STAR_SPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/SONY_SPORTS_5/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/STAR_SPORTS_SELECT1/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/STAR_SPORTS_SELECT2/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/ATN_Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/Channel_I/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:24,Live
 https://box.bbaria.net:8083/NET_GEO/tracks-v1a1/mono.m3u8
+#EXTINF:22,NTV
 https://box.bbaria.net:8083/NTV/tracks-v1a1/mono.m3u8
