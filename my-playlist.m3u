@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:26,Unit 8
-http://172.19.0.18:5000/stream/cloudtv-t-sports/SN-E01-01/tracks-v1a1/mono.m3u8
-#EXTINF:23, Fifa S9
-http://172.19.0.18:5000/stream/cloudtv-fifa-s9/PC-01/tracks-v1a1/mono.m3u8
-#EXTINF:24, Tsports
-http://172.19.0.18:5000/stream/cloudtv-fifa-s8/fifa_tsnsports4aq/tracks-v1a1/mono.m3u8
-#EXTINF:20, PTV
-http://172.19.0.18:5000/stream/cloudtv-fifa-s6/ptv_sports/tracks-v1a1/mono.m3u8
-#EXTINF:23,BTV
-http://172.19.0.18:5000/stream/cloudtv-fifa-s5/btv/tracks-v1a1/mono.m3u8
-#EXTINF:32,[live] fifa_2
-http://172.19.0.18:5000/stream/cloudtv-fifa-s2/feed_fifa2/tracks-v1a1/mono.m3u8
-#EXTINF:28,ATN NEWS
+#EXTINF:0,ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:0,CHANNEL 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -1578,3 +1566,15 @@ http://172.19.17.34/live/ontest1/ontest1/157.m3u8
 http://172.19.17.34/live/ontest1/ontest1/158.m3u8
 #EXTINF:0,STAR NEWS HD
 http://172.19.17.34/live/ontest1/ontest1/159.m3u8
+#EXTINF:26,Unit 8
+http://172.19.0.18:5000/stream/cloudtv-t-sports/SN-E01-01/tracks-v1a1/mono.m3u8
+#EXTINF:23, Fifa S9
+http://172.19.0.18:5000/stream/cloudtv-fifa-s9/PC-01/tracks-v1a1/mono.m3u8
+#EXTINF:24, Tsports
+http://172.19.0.18:5000/stream/cloudtv-fifa-s8/fifa_tsnsports4aq/tracks-v1a1/mono.m3u8
+#EXTINF:20, PTV
+http://172.19.0.18:5000/stream/cloudtv-fifa-s6/ptv_sports/tracks-v1a1/mono.m3u8
+#EXTINF:23,BTV
+http://172.19.0.18:5000/stream/cloudtv-fifa-s5/btv/tracks-v1a1/mono.m3u8
+#EXTINF:32,[live] fifa_2
+http://172.19.0.18:5000/stream/cloudtv-fifa-s2/feed_fifa2/tracks-v1a1/mono.m3u8
