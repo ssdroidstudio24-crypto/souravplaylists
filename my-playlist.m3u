@@ -1678,3 +1678,5 @@ https://box.bbaria.net:8083/COLORS_BANHLA/video.m3u8
 https://box.bbaria.net:8083/DurontoTV/video.m3u8
 #EXTINF:24,Live
 https://box.bbaria.net:8083/FHM-PTV/index.m3u8
+#EXTINF:24,HUM TV PK
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
