@@ -5,7 +5,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 http://172.19.0.18:5000/stream/cloudtv-t-sports/SN-E01-01/tracks-v1a1/mono.m3u8
 #EXTINF:23, Fifa S9
 http://172.19.0.18:5000/stream/cloudtv-fifa-s9/PC-01/tracks-v1a1/mono.m3u8
-#EXTINF:24, Tsports
+#EXTINF:24, Tsports Sourav
 http://172.19.0.18:5000/stream/cloudtv-fifa-s8/fifa_tsnsports4aq/tracks-v1a1/mono.m3u8
 #EXTINF:20, PTV
 http://172.19.0.18:5000/stream/cloudtv-fifa-s6/ptv_sports/tracks-v1a1/mono.m3u8
